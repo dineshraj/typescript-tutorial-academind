@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tutorial-academind",
+  "version": "1.0.0",
+  "description": "Typescript tutorial from Academind - https://www.youtube.com/watch?v=BwuLxPH8IDs&amp;t=1153s",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshraj/typescript-tutorial-academind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshraj/typescript-tutorial-academind/issues"
+  },
+  "homepage": "https://github.com/dineshraj/typescript-tutorial-academind#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
